@@ -85,6 +85,6 @@ linux_bell_theme __custom
 
 
 # BEGIN_KITTY_THEME
-# 3024 Day
+# Catppuccin-Mocha
 include current-theme.conf
 # END_KITTY_THEME
